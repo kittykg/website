@@ -68,11 +68,14 @@ export default {
           icon: 'mdi-file-code',
           title: 'My Projects',
           to: '/projects'
+        },
+        {
+          icon: 'mdi-contacts',
+          title: 'My Contact',
+          to: '/contacts'
         }
       ],
       miniVariant: false,
-      right: true,
-      rightDrawer: false,
       title: ''
     }
   }
