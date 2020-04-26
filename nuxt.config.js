@@ -6,6 +6,8 @@ export default {
   ** Headers of the page
   */
   head: {
+    /*
+    Default title, might used it in the future
     titleTemplate: '%s - ' + process.env.npm_package_name,
     title: process.env.npm_package_name || '',
     meta: [
@@ -13,8 +15,10 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
+    */
+    title: 'Hello from Kitty',
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon2.ico' }
     ]
   },
   /*

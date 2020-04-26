@@ -1,7 +1,7 @@
 {
-  "name": "website",
+  "name": "kitty_website",
   "version": "1.0.0",
-  "description": "My Website",
+  "description": "Kitty's Website",
   "author": "Kitty Gu",
   "private": true,
   "scripts": {
@@ -9,7 +9,9 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "clean": "rm -rf node_modules",
+    "clean-install": "npm run clean && npm install"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
