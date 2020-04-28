@@ -65,6 +65,7 @@ export default {
           activeColor: "blue darken-2",
           normalColor: "blue lighten-3",
           info: "Kexin Gu",
+          link: "https://www.facebook.com/kitty.gu.9047",
         },
         {
           name: "Instagram",
@@ -72,6 +73,7 @@ export default {
           activeColor: "pink darken-4",
           normalColor: "pink lighten-3",
           info: "kitty128",
+          link: "https://www.instagram.com/kittygu128/",
         },
         {
           name: "Twitter",
@@ -79,6 +81,7 @@ export default {
           activeColor: "blue darken-4",
           normalColor: "blue lighten-3",
           info: "kittykexin",
+          link: "https://twitter.com/kittykexin",
         },
         {
           name: "LinkedIn",
@@ -86,6 +89,7 @@ export default {
           activeColor: "cyan darken-3",
           normalColor: "cyan lighten-4",
           info: "Kexin Gu",
+          link: "https://www.linkedin.com/in/kexin-gu-9a0296151/",
         },
       ],
     };
