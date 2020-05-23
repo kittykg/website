@@ -46,6 +46,12 @@ export default {
           link: "https://gitlab.doc.ic.ac.uk/kg3217/keyboardBundle",
           subtitle: "ICHack19 Best Native Hack Runner Up",
         },
+        {
+          title: "Film Pudding",
+          github: true,
+          link: "https://github.com/kittykg/film-pudding",
+          subtitle: "A machine learning model to predict my rating of films."
+        }
       ],
     };
   },
