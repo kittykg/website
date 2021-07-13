@@ -12,12 +12,13 @@
       <v-container class="text-center">
         <h3 class="my-4">
           Please join our wedding ceremony at Christ Church Kensington,<br>
-          on 28 Aug 2021 at 14:00 BST and 21:00 CST.<br> <br>
-          Click the RSVP button to tell us that you are coming,<br>
-          either in-person or virtually.
+          on 28 Aug 2021.<br> <br>
+          Click the RSVP button to tell us that you would like to come,<br>
+          either in-person or virtually.<br>
+          We would send out the invitation in the next couple of weeks.
         </h3>
 
-        <v-btn outlined class="rsvp-btn mt-2" v-on:click="rsvp">RSVP</v-btn>
+        <v-btn outlined class="rsvp-btn my-2" v-on:click="rsvp">RSVP</v-btn>
       </v-container>
     </div>
   </div>
