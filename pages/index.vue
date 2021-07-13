@@ -18,8 +18,8 @@
 
             <v-card-text>
               <p>
-                I'm currently studying at Imperial College London, on my course
-                MEng Computing specialised in Artificial Intelligence.
+                I just finished my course MEng Computing specialised in
+                Artificial Intelligence, at Imperial College London.
               </p>
 
               <p>

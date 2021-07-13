@@ -29,6 +29,12 @@ export default {
     return {
       projects: [
         {
+          title: "HACR - Hybrid Architecture for Concept Reasoning",
+          github: true,
+          link: "https://github.com/kittykg/hacr",
+          subtitle: "Final Year Individual Project at Imperial"
+        },
+        {
           title: "Tamagucci",
           github: true,
           link: "https://github.com/ichack20-pet-drone/droneboy",
