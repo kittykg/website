@@ -17,6 +17,7 @@
         <div class="title-text-box" v-bind:class="textBoxClass">
           <div class="main-text">{{ mainText }}</div>
           <div class="sub-text">{{ subText }}</div>
+          <div v-if="isWeddingPage" class="sub-text">14:00 BST, 21:00 CST</div>
         </div>
       </div>
       <div class="context-container my-6">
@@ -41,6 +42,11 @@ const giftsPagePath = '/wedding-gift-list'
 
 export default Vue.extend({
   name: "wedding",
+  head() {
+    return {
+      title: "Matt & Kitty Wedding"
+    };
+  },
   data() {
     return {
       weddingPages: [
