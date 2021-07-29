@@ -8,7 +8,7 @@
       We have a note of instruction in the sheet and you could just follow it to <br>
       contribute if you'd like :) <br><br>
       If there's any issue, please email us by clicking at the 'Contact Us' button<br>
-      at the button of this web page.
+      at the bottom of this web page.
     </h3>
   </v-container>
 </template>
