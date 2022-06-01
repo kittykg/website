@@ -16,7 +16,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
     "nuxt": "^2.15.7",
-    "sharp": "^0.25.4"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "@nuxt/types": "^2.13.2",
